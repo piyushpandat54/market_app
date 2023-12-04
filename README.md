@@ -1,6 +1,6 @@
-# market_app
+# Market place App
 
-A new Flutter project.
+A Flutter framework has been used to develop this app. In the app, users can log in. Once we log in, we see the Home Screen with a list of products, and we click on a particular product to shop, and then the detailed product page appears.
 
 ## Getting Started
 
